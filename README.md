@@ -39,13 +39,13 @@ Currently, I'm focusing on web development, automation, and experimenting with c
 <!-- ============================= -->
 <!--           MY PROJECTS         -->
 <!-- ============================= -->
-
+<!-- 
 ## My Projects  
 
 <p align="center">
   <img src="https://i.imgur.com/1q9uGm5.gif" width="150" alt="Project One Demo"/>
 </p>
-
+-->
 ---
 
 ### [Project One](https://github.com/brianel1)  

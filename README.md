@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](https://i.imgur.com/8Q2Q5QF.jpeg)
+![Banner]([https://i.imgur.com/8Q2Q5QF.jpeg](https://github.com/brianel1/bannerImage/blob/main/github-header-banner.png))
 
 ---
 

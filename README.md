@@ -104,4 +104,4 @@ Features:
 ## GitHub Stats  
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianel1&show_icons=true&theme=tokyonight) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brianel1&repo=brianel1)](https://github.com/brianel1/brianel1)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianel1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

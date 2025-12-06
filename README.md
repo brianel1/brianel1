@@ -103,5 +103,5 @@ Features:
 
 ## GitHub Stats  
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianel1&show_icons=true&theme=tokyonight) -->
-[![Brianel's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianel1)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianel1&show_icons=true&theme=tokyonight)] (https://github.com/anuraghazra/github-readme-stats) 
+<!--[![Brianel's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianel1)](https://github.com/anuraghazra/github-readme-stats) -->

@@ -24,7 +24,7 @@ I'm a developer who loves building clean, fast, and modern applications.
 I enjoy solving problems, designing smooth user experiences, and exploring new tools in tech.  
 Currently, I'm focusing on web development, automation, and experimenting with creative coding.  
 
-🎥 Optional: YouTube coming soon.
+<!-- 🎥 Optional: YouTube coming soon.-->
 
 ---
 
